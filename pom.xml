@@ -10,12 +10,11 @@
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-	</properties>
-	<properties>
-    		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     		<maven.compiler.source>18.0.2+9-61</maven.compiler.source>
     		<maven.compiler.target>18.0.2+9-61</maven.compiler.target>
-  	</properties>
+	</properties>
+	
 	<dependencies>
 		<dependency>
 		    <groupId>com.oracle.bedrock</groupId>
